@@ -23,5 +23,5 @@ globals:
   module: false
 rules:
   linebreak-style:
-    - error
+    - 2
     - unix
